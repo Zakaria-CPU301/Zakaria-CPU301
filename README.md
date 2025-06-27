@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zakaria Ramadan Risnandar Putra</h1>
 <h3 align="center">A passionate fullstack developer from angkasa</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakaria-cpu301" alt="zakaria-cpu301" /></a> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Zakaria Ramadan Risnandar Putra</h1>
-<h3 align="center">A passionate fullstack developer from angkasa</h3>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakaria-cpu301" alt="zakaria-cpu301" /></a> </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria-cpu301&" alt="zakaria-cpu301" /></p>
