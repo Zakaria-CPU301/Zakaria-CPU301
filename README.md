@@ -31,6 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria-cpu301&" alt="zakaria-cpu301" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaria-cpu301&show_icons=true&locale=en&layout=compact" alt="zakaria-cpu301" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zakaria-cpu301&show_icons=true&locale=en" alt="zakaria-cpu301" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zakaria-cpu301&show_icons=true&locale=en" alt="zakaria-cpu301" /></p>
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaria-cpu301&show_icons=true&locale=en&layout=compact" alt="zakaria-cpu301" /></p>
