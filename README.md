@@ -1,7 +1,9 @@
+<div align="center">
+<!-- About -->
 <h1 align="center">Hi 👋, I'm Zakaria Ramadan Risnandar Putra</h1>
 <h3 align="center">A passionate backend developer ✨ from angkasa 🚀</h3>
 
-<!-- <div align="center"> -->
+<!-- STREAK -->
 ![](https://nirzak-streak-stats.vercel.app/?user=zakaria-cpu301&theme=merko&hide_border=false)<br/>
 
 ---
@@ -24,6 +26,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zakaria-cpu301/zakaria-cpu301/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zakaria-cpu301/zakaria-cpu301/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
 
 > [!NOTE]
 > Ready to grow 🚀 Ready to develop any project ⚙️ Ready to dream 💤
