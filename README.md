@@ -5,10 +5,22 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria-cpu301&" alt="zakaria-cpu301" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zakaria-cpu301&show_icons=true&locale=en" alt="zakaria-cpu301" /></p>
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 <div align="center">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
