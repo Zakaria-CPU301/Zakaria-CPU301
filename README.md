@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zakaria Ramadan Risnandar Putra</h1>
 <h3 align="center">A passionate backend developer ✨ from angkasa 🚀</h3>
 
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=zakaria-cpu301&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/> -->
+<div align="center">
 ![](https://nirzak-streak-stats.vercel.app/?user=zakaria-cpu301&theme=merko&hide_border=false)<br/>
+</div>
 
 ---
 
@@ -33,12 +33,3 @@
 
 > [!TIP]
 > Ngoding aja dulu, jagonya belakangan(～￣▽￣)～
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
