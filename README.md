@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Zakaria Ramadan Risnandar Putra</h1>
 <h3 align="center">A passionate backend developer ✨ from angkasa 🚀</h3>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria-cpu301&" alt="zakaria-cpu301" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zakaria-cpu301&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zakaria-cpu301&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-cpu301&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+---
+
+<!-- Natives -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
@@ -10,8 +16,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"   />
 
+<!-- Frameworks -->
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+<!-- TOP LANGUAGES -->
+[![](https://visitcount.itsvg.in/api?id=zakaria-cpu301&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zakaria-cpu301/zakaria-cpu301/output/pacman-contribution-graph-dark.svg">
