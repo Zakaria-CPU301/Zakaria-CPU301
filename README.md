@@ -6,7 +6,6 @@
 <!-- STREAK -->
 ![](https://nirzak-streak-stats.vercel.app/?user=zakaria-cpu301&theme=merko&hide_border=false)<br/>
 
----
 
 <!-- TOP LANGUAGES -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-cpu301&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
@@ -20,6 +19,8 @@
 
 <!-- Frameworks -->
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zakaria-cpu301/zakaria-cpu301/output/pacman-contribution-graph-dark.svg">
