@@ -11,8 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-cpu301&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Natives -->
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" style="max-width: 10%" />
+<div align="left" width="10%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
