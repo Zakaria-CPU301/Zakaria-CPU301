@@ -1,6 +1,6 @@
 <div align="center">
 <!-- About -->
-<h1 align="center">Hi 👋, I'm Zakaria Ramadan Risnandar Putra</h1>
+<h1 align="center">Hi 👋, I'm Anggieta Septiani</h1>
 <h3 align="center">A passionate backend developer ✨ from angkasa 🚀</h3>
 
 <!-- STREAK -->
