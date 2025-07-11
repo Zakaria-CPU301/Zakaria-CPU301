@@ -1,7 +1,7 @@
 <div align="center">
 <!-- About -->
 <h1 align="center">Hi 👋, I'm Anggieta Septiani</h1>
-<h3 align="center">A passionate backend developer ✨ from angkasa 🚀</h3>
+<h3 align="center">A passionate fullstack developer ✨ from angkasa 🚀</h3>
 
 <!-- STREAK -->
 ![](https://nirzak-streak-stats.vercel.app/?user=anggieta2&theme=merko&hide_border=false)<br/>
