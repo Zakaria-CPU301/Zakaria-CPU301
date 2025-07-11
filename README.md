@@ -4,11 +4,11 @@
 <h3 align="center">A passionate backend developer ✨ from angkasa 🚀</h3>
 
 <!-- STREAK -->
-![](https://nirzak-streak-stats.vercel.app/?user=zakaria-cpu301&theme=merko&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anggieta2&theme=merko&hide_border=false)<br/>
 
 
 <!-- TOP LANGUAGES -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-cpu301&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anggieta2&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Natives -->
 <span align="center"> 
@@ -31,9 +31,9 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zakaria-cpu301/zakaria-cpu301/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zakaria-cpu301/zakaria-cpu301/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zakaria-cpu301/zakaria-cpu301/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anggieta2/anggieta2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anggieta2/anggieta2/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anggieta2/anggieta2/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
