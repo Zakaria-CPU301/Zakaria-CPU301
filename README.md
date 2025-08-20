@@ -4,11 +4,11 @@
 <h3 align="center">A passionate fullstack developer ✨ from angkasa 🚀</h3>
 
 <!-- STREAK -->
-![](https://nirzak-streak-stats.vercel.app/?user=anggieta2&theme=merko&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Zakaria-CPU301&theme=merko&hide_border=false)<br/>
 
 
 <!-- TOP LANGUAGES -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anggieta2&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakaria-CPU301&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Natives -->
 <span align="center"> 
