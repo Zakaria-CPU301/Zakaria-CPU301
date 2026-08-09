@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakaria-CPU301&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Natives -->
-<div> 
+<div style="display: flex;"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </div>
 <div> 
