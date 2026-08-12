@@ -25,6 +25,7 @@
 <!-- Frameworks -->
   <img src="https://cdn.simpleicons.org/afdian/946CE6" width="40" height="40" alt="Livewire">
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/livewire-800080.svg?style=for-the-badge&logo=livewire&logoColor=white" alt="Inertia.js">
   <img src="https://img.shields.io/badge/Inertia.js-9553E9.svg?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://cdn.simpleicons.org/livewire/4E56A6" width="40" height="40" alt="Livewire">
